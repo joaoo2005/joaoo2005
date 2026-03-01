@@ -1,7 +1,6 @@
 ## Olá! Eu sou João Vitor Antunes 👋
 
-- 🔭 Pretendo trabalho com Back-End / Front-End
-- 🌱 Estou estudando HTML e CSS
+- 🌱 Estudando Engenharia de Softwer
 
 <div>
   <a href="https://github.com/joaoo2005">
