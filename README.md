@@ -2,11 +2,6 @@
 
 - 🌱 Estudando Engenharia de Softwer
 
-<div>
-  <a href="https://github.com/joaoo2005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoo2005&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoo2005&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
